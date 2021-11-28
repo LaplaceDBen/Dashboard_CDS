@@ -1,12 +1,13 @@
-from A8 import df,df1
+
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 import dash
-import dash_core_components as dcc
+from dash import dcc
 import dash_html_components as html
-
+df = pd.read_csv(r'.\Summer-Olympic-medals-1976-to-2008.csv', encoding="utf-8")
+df1=pd.read_csv(r'.\summary.csv', encoding="utf-8")
 df.info()
 df1.info()
 
@@ -33,5 +34,6 @@ app.layout = html.Div(children=[
         figure=fig
     )
 ])
+
 
 app.run_server(debug=True)

@@ -1,0 +1,560 @@
+Country,Year,Bronze,Gold,Silver
+Afghanistan,2008.0,1,0,0
+Algeria,1984.0,2,0,0
+Algeria,1992.0,1,1,0
+Algeria,1996.0,1,2,0
+Algeria,2000.0,3,1,1
+Algeria,2008.0,1,0,1
+Argentina,1988.0,12,0,1
+Argentina,1992.0,2,0,0
+Argentina,1996.0,1,0,19
+Argentina,2000.0,3,0,17
+Argentina,2004.0,21,26,0
+Argentina,2008.0,31,20,0
+Armenia,1996.0,0,1,1
+Armenia,2000.0,1,0,0
+Armenia,2008.0,6,0,0
+Australia,1976.0,8,0,16
+Australia,1980.0,5,5,2
+Australia,1984.0,29,7,14
+Australia,1988.0,10,18,6
+Australia,1992.0,16,14,27
+Australia,1996.0,84,32,16
+Australia,2000.0,54,60,69
+Australia,2004.0,30,49,78
+Australia,2008.0,76,31,42
+Austria,1976.0,1,0,0
+Austria,1980.0,1,1,3
+Austria,1984.0,1,1,1
+Austria,1988.0,0,1,0
+Austria,1992.0,0,0,6
+Austria,1996.0,2,0,1
+Austria,2000.0,0,3,1
+Austria,2004.0,1,3,4
+Austria,2008.0,2,0,1
+Azerbaijan,1996.0,0,0,1
+Azerbaijan,2000.0,1,2,0
+Azerbaijan,2004.0,4,1,0
+Azerbaijan,2008.0,4,1,2
+Bahamas,1992.0,1,0,0
+Bahamas,1996.0,0,0,5
+Bahamas,2000.0,0,6,0
+Bahamas,2004.0,1,1,0
+Bahamas,2008.0,1,0,4
+Barbados,2000.0,1,0,0
+Belarus,1996.0,16,1,6
+Belarus,2000.0,11,3,8
+Belarus,2004.0,9,2,6
+Belarus,2008.0,17,8,5
+Belgium,1976.0,6,0,3
+Belgium,1980.0,0,1,0
+Belgium,1984.0,2,1,2
+Belgium,1988.0,2,0,0
+Belgium,1992.0,2,0,1
+Belgium,1996.0,2,2,2
+Belgium,2000.0,4,0,3
+Belgium,2004.0,2,1,0
+Belgium,2008.0,0,1,4
+Bermuda*,1976.0,1,0,0
+Brazil,1976.0,3,0,0
+Brazil,1980.0,5,4,0
+Brazil,1984.0,2,1,34
+Brazil,1988.0,5,1,22
+Brazil,1992.0,0,13,1
+Brazil,1996.0,44,5,15
+Brazil,2000.0,36,0,12
+Brazil,2004.0,3,18,19
+Brazil,2008.0,27,14,34
+Bulgaria,1976.0,18,8,13
+Bulgaria,1980.0,40,8,46
+Bulgaria,1988.0,17,10,14
+Bulgaria,1992.0,7,3,7
+Bulgaria,1996.0,6,3,12
+Bulgaria,2000.0,2,5,6
+Bulgaria,2004.0,14,2,1
+Bulgaria,2008.0,3,1,1
+Burundi,1996.0,0,1,0
+Cameroon,1984.0,1,0,0
+Cameroon,2000.0,0,18,0
+Cameroon,2004.0,0,1,0
+Cameroon,2008.0,0,1,0
+Canada,1976.0,12,0,8
+Canada,1984.0,32,19,35
+Canada,1988.0,12,4,5
+Canada,1992.0,12,27,5
+Canada,1996.0,12,8,31
+Canada,2000.0,23,4,4
+Canada,2004.0,4,3,10
+Canada,2008.0,10,11,13
+Chile,1988.0,0,0,1
+Chile,2000.0,18,0,0
+Chile,2004.0,1,3,0
+Chile,2008.0,0,0,1
+China,1984.0,37,26,13
+China,1988.0,31,6,16
+China,1992.0,19,18,46
+China,1996.0,17,19,74
+China,2000.0,17,39,23
+China,2004.0,15,52,27
+China,2008.0,57,74,53
+Colombia,1984.0,0,0,1
+Colombia,1988.0,1,0,0
+Colombia,1992.0,1,0,0
+Colombia,2000.0,0,1,0
+Colombia,2004.0,2,0,0
+Colombia,2008.0,1,0,1
+Costa Rica,1988.0,0,0,1
+Costa Rica,1996.0,0,1,0
+Costa Rica,2000.0,2,0,0
+Cote d'Ivoire,1984.0,0,0,1
+Croatia,1992.0,3,0,12
+Croatia,1996.0,0,16,13
+Croatia,2000.0,9,1,0
+Croatia,2004.0,3,14,3
+Croatia,2008.0,3,0,2
+Cuba,1976.0,14,6,4
+Cuba,1980.0,5,8,7
+Cuba,1992.0,14,44,13
+Cuba,1996.0,10,39,8
+Cuba,2000.0,12,22,35
+Cuba,2004.0,22,31,8
+Cuba,2008.0,11,2,34
+Czech Republic,1996.0,4,4,5
+Czech Republic,2000.0,4,2,3
+Czech Republic,2004.0,5,1,6
+Czech Republic,2008.0,0,3,4
+Czechoslovakia,1976.0,9,2,4
+Czechoslovakia,1980.0,16,18,18
+Czechoslovakia,1988.0,3,3,4
+Czechoslovakia,1992.0,1,4,3
+Denmark,1976.0,5,3,0
+Denmark,1980.0,2,4,2
+Denmark,1984.0,10,0,5
+Denmark,1988.0,3,3,1
+Denmark,1992.0,9,3,2
+Denmark,1996.0,1,22,1
+Denmark,2000.0,4,18,3
+Denmark,2004.0,10,19,0
+Denmark,2008.0,6,6,6
+Djibouti,1988.0,1,0,0
+Dominican Republic,1984.0,1,0,0
+Dominican Republic,2004.0,0,1,0
+Dominican Republic,2008.0,0,1,1
+East Germany,1976.0,42,99,51
+East Germany,1980.0,61,112,87
+East Germany,1988.0,47,75,52
+Ecuador,1996.0,0,1,0
+Ecuador,2008.0,0,0,1
+Egypt,1984.0,0,0,1
+Egypt,2004.0,3,1,1
+Egypt,2008.0,1,0,0
+Eritrea,2004.0,1,0,0
+Estonia,1992.0,2,1,0
+Estonia,2000.0,2,1,0
+Estonia,2004.0,2,0,1
+Estonia,2008.0,0,1,2
+Ethiopia,1980.0,2,2,0
+Ethiopia,1992.0,2,1,0
+Ethiopia,1996.0,1,2,0
+Ethiopia,2000.0,3,4,1
+Ethiopia,2004.0,2,2,3
+Ethiopia,2008.0,2,4,1
+Finland,1976.0,0,4,2
+Finland,1980.0,5,3,1
+Finland,1984.0,6,4,2
+Finland,1988.0,2,1,1
+Finland,1992.0,2,1,4
+Finland,1996.0,1,1,2
+Finland,2000.0,1,3,1
+Finland,2004.0,0,0,2
+Finland,2008.0,2,1,2
+France,1976.0,8,5,7
+France,1980.0,6,18,5
+France,1984.0,31,21,16
+France,1988.0,13,12,4
+France,1992.0,43,9,5
+France,1996.0,20,21,10
+France,2000.0,14,22,30
+France,2004.0,22,21,10
+France,2008.0,28,25,23
+Georgia,1996.0,2,0,0
+Georgia,2000.0,6,0,0
+Georgia,2004.0,0,2,2
+Georgia,2008.0,3,3,0
+Germany,1992.0,60,81,57
+Germany,1996.0,47,42,35
+Germany,2000.0,65,31,23
+Germany,2004.0,63,41,45
+Germany,2008.0,43,42,16
+Ghana,1992.0,13,0,0
+Greece,1980.0,4,1,0
+Greece,1984.0,1,0,1
+Greece,1988.0,1,0,0
+Greece,1992.0,0,2,0
+Greece,1996.0,0,4,4
+Greece,2000.0,8,4,6
+Greece,2004.0,5,8,18
+Greece,2008.0,4,0,3
+Guyana,1980.0,1,0,0
+Hong Kong*,1996.0,0,1,0
+Hong Kong*,2004.0,0,0,2
+Hungary,1976.0,35,14,6
+Hungary,1980.0,40,8,13
+Hungary,1988.0,15,20,9
+Hungary,1992.0,8,14,23
+Hungary,1996.0,26,8,9
+Hungary,2000.0,4,25,24
+Hungary,2004.0,4,24,12
+Hungary,2008.0,3,16,8
+Iceland,1984.0,1,0,0
+Iceland,2000.0,1,0,0
+Iceland,2008.0,0,0,14
+Independent Olympic Participants (1992),1992.0,2,0,1
+India,1980.0,0,16,0
+India,1996.0,1,0,0
+India,2000.0,1,0,0
+India,2004.0,0,0,1
+India,2008.0,2,1,0
+Indonesia,1988.0,0,0,3
+Indonesia,1992.0,1,2,3
+Indonesia,1996.0,3,2,1
+Indonesia,2000.0,2,2,4
+Indonesia,2004.0,3,1,1
+Indonesia,2008.0,3,2,2
+Iran,1976.0,1,0,1
+Iran,1988.0,0,0,1
+Iran,1992.0,2,0,1
+Iran,1996.0,1,1,1
+Iran,2000.0,1,3,0
+Iran,2004.0,2,2,2
+Iran,2008.0,1,1,0
+Ireland,1980.0,1,0,2
+Ireland,1984.0,0,0,1
+Ireland,1992.0,0,1,1
+Ireland,1996.0,1,3,0
+Ireland,2000.0,0,0,1
+Ireland,2008.0,2,0,1
+Israel,1992.0,1,0,1
+Israel,1996.0,1,0,0
+Israel,2000.0,1,0,0
+Israel,2004.0,1,1,0
+Israel,2008.0,1,0,0
+Italy,1976.0,4,2,25
+Italy,1980.0,8,8,21
+Italy,1984.0,28,29,6
+Italy,1988.0,8,11,10
+Italy,1992.0,14,22,10
+Italy,1996.0,28,19,24
+Italy,2000.0,29,22,14
+Italy,2004.0,39,24,39
+Italy,2008.0,20,8,14
+Jamaica,1976.0,0,1,1
+Jamaica,1980.0,3,0,0
+Jamaica,1984.0,2,0,4
+Jamaica,1988.0,0,0,5
+Jamaica,1992.0,1,0,3
+Jamaica,1996.0,12,1,3
+Jamaica,2000.0,9,0,14
+Jamaica,2004.0,6,6,1
+Jamaica,2008.0,5,9,3
+Japan,1976.0,10,25,6
+Japan,1984.0,31,10,8
+Japan,1988.0,13,4,3
+Japan,1992.0,36,3,8
+Japan,1996.0,14,3,26
+Japan,2000.0,8,5,30
+Japan,2004.0,53,21,20
+Japan,2008.0,17,23,11
+Kazakhstan,1996.0,4,3,4
+Kazakhstan,2000.0,0,3,4
+Kazakhstan,2004.0,3,1,4
+Kazakhstan,2008.0,7,2,4
+Kenya,1984.0,2,1,0
+Kenya,1988.0,2,5,2
+Kenya,1992.0,2,2,4
+Kenya,1996.0,3,1,4
+Kenya,2000.0,2,2,3
+Kenya,2004.0,2,1,4
+Kenya,2008.0,4,6,4
+"Korea, North",1976.0,0,1,1
+"Korea, North",1980.0,2,0,3
+"Korea, North",1992.0,6,4,0
+"Korea, North",1996.0,2,2,1
+"Korea, North",2000.0,3,0,1
+"Korea, North",2004.0,1,0,4
+"Korea, North",2008.0,3,2,1
+"Korea, South",1976.0,15,1,1
+"Korea, South",1984.0,7,6,29
+"Korea, South",1988.0,12,28,37
+"Korea, South",1992.0,16,28,5
+"Korea, South",1996.0,7,10,49
+"Korea, South",2000.0,35,12,26
+"Korea, South",2004.0,10,14,28
+"Korea, South",2008.0,26,41,11
+Kuwait,2000.0,1,0,0
+Kyrgyzstan,2000.0,1,0,0
+Kyrgyzstan,2008.0,1,0,1
+Latvia,1992.0,1,0,2
+Latvia,1996.0,0,0,1
+Latvia,2000.0,1,1,1
+Latvia,2004.0,0,0,4
+Latvia,2008.0,1,1,1
+Lebanon,1980.0,1,0,0
+Lithuania,1992.0,12,1,0
+Lithuania,1996.0,12,0,0
+Lithuania,2000.0,15,2,0
+Lithuania,2004.0,0,1,2
+Lithuania,2008.0,3,0,2
+Macedonia,2000.0,1,0,0
+Malaysia,1992.0,2,0,0
+Malaysia,1996.0,1,0,2
+Malaysia,2008.0,0,0,1
+Mauritius,2008.0,1,0,0
+Mexico,1976.0,1,1,0
+Mexico,1980.0,11,0,1
+Mexico,1984.0,1,2,3
+Mexico,1988.0,2,0,0
+Mexico,1992.0,0,0,1
+Mexico,1996.0,1,0,0
+Mexico,2000.0,3,1,2
+Mexico,2004.0,1,0,3
+Mexico,2008.0,2,2,0
+Moldova,1996.0,1,0,2
+Moldova,2000.0,1,0,1
+Moldova,2008.0,1,0,0
+Mongolia,1976.0,0,0,1
+Mongolia,1980.0,2,0,2
+Mongolia,1988.0,1,0,0
+Mongolia,1992.0,2,0,0
+Mongolia,1996.0,1,0,0
+Mongolia,2004.0,1,0,0
+Mongolia,2008.0,0,2,2
+Morocco,1984.0,0,2,0
+Morocco,1988.0,2,1,0
+Morocco,1992.0,1,1,1
+Morocco,1996.0,2,0,0
+Morocco,2000.0,4,0,1
+Morocco,2004.0,0,2,1
+Morocco,2008.0,1,0,1
+Mozambique,1996.0,1,0,0
+Mozambique,2000.0,0,1,0
+Namibia,1992.0,0,0,2
+Namibia,1996.0,0,0,2
+Netherlands,1976.0,13,0,2
+Netherlands,1980.0,5,0,1
+Netherlands,1984.0,14,20,6
+Netherlands,1988.0,36,3,5
+Netherlands,1992.0,8,5,20
+Netherlands,1996.0,26,38,9
+Netherlands,2000.0,23,27,29
+Netherlands,2004.0,22,4,50
+Netherlands,2008.0,4,40,18
+Netherlands Antilles*,1988.0,0,0,1
+New Zealand,1976.0,9,17,1
+New Zealand,1984.0,6,16,1
+New Zealand,1988.0,16,4,4
+New Zealand,1992.0,5,1,9
+New Zealand,1996.0,4,3,2
+New Zealand,2000.0,3,1,0
+New Zealand,2004.0,0,4,2
+New Zealand,2008.0,8,4,2
+Nigeria,1984.0,4,0,1
+Nigeria,1992.0,4,0,7
+Nigeria,1996.0,3,19,4
+Nigeria,2000.0,0,0,8
+Nigeria,2004.0,8,0,0
+Nigeria,2008.0,6,0,18
+Norway,1976.0,0,2,4
+Norway,1984.0,3,0,1
+Norway,1988.0,0,2,21
+Norway,1992.0,1,2,20
+Norway,1996.0,20,2,3
+Norway,2000.0,19,21,4
+Norway,2004.0,2,5,0
+Norway,2008.0,1,16,5
+Pakistan,1976.0,16,0,0
+Pakistan,1984.0,0,16,0
+Pakistan,1988.0,1,0,0
+Pakistan,1992.0,16,0,0
+Panama,2008.0,0,1,0
+Paraguay,2004.0,0,0,17
+Peru,1984.0,0,0,1
+Peru,1988.0,0,0,12
+Peru,1992.0,0,0,1
+Philippines,1988.0,1,0,0
+Philippines,1992.0,1,0,0
+Philippines,1996.0,0,0,1
+Poland,1976.0,26,18,29
+Poland,1980.0,22,3,25
+Poland,1988.0,10,2,9
+Poland,1992.0,19,5,18
+Poland,1996.0,7,7,7
+Poland,2000.0,7,7,10
+Poland,2004.0,6,4,2
+Poland,2008.0,1,6,13
+Portugal,1976.0,0,0,2
+Portugal,1984.0,2,1,0
+Portugal,1988.0,0,1,0
+Portugal,1996.0,2,1,0
+Portugal,2000.0,2,0,0
+Portugal,2004.0,1,0,2
+Portugal,2008.0,0,1,1
+Puerto Rico*,1976.0,1,0,0
+Puerto Rico*,1984.0,1,0,1
+Puerto Rico*,1992.0,1,0,0
+Puerto Rico*,1996.0,1,0,0
+Qatar,1992.0,1,0,0
+Qatar,2000.0,1,0,0
+Romania,1976.0,23,4,28
+Romania,1980.0,50,7,15
+Romania,1984.0,35,40,31
+Romania,1988.0,13,8,30
+Romania,1992.0,14,8,31
+Romania,1996.0,15,13,10
+Romania,2000.0,13,27,6
+Romania,2004.0,11,23,5
+Romania,2008.0,16,5,1
+Russia,1996.0,34,36,45
+Russia,2000.0,54,66,68
+Russia,2004.0,96,47,49
+Russia,2008.0,56,43,44
+Saudi Arabia,2000.0,1,0,1
+Senegal,1988.0,0,0,1
+Serbia,2004.0,0,0,14
+Serbia,2008.0,14,0,1
+Singapore,2008.0,0,0,3
+Slovakia,1996.0,1,1,1
+Slovakia,2000.0,1,2,3
+Slovakia,2004.0,5,3,2
+Slovakia,2008.0,1,4,5
+Slovenia,1992.0,6,0,0
+Slovenia,1996.0,0,0,2
+Slovenia,2000.0,0,3,0
+Slovenia,2004.0,3,0,2
+Slovenia,2008.0,2,1,2
+South Africa,1992.0,0,0,3
+South Africa,1996.0,1,3,1
+South Africa,2000.0,3,0,2
+South Africa,2004.0,3,4,3
+South Africa,2008.0,0,0,1
+Soviet Union,1976.0,79,113,93
+Soviet Union,1980.0,123,192,127
+Soviet Union,1988.0,95,134,65
+Spain,1976.0,0,0,6
+Spain,1980.0,3,2,19
+Spain,1984.0,3,2,14
+Spain,1988.0,2,1,2
+Spain,1992.0,2,44,20
+Spain,1996.0,22,24,21
+Spain,2000.0,20,3,20
+Spain,2004.0,8,4,15
+Spain,2008.0,16,7,48
+Sri Lanka,2000.0,0,0,1
+Sudan,2008.0,0,0,1
+Suriname,1988.0,0,1,0
+Suriname,1992.0,1,0,0
+Sweden,1976.0,0,9,1
+Sweden,1980.0,9,3,6
+Sweden,1984.0,11,3,18
+Sweden,1988.0,11,0,5
+Sweden,1992.0,7,1,27
+Sweden,1996.0,5,3,23
+Sweden,2000.0,8,4,20
+Sweden,2004.0,2,5,5
+Sweden,2008.0,2,0,5
+Switzerland,1976.0,6,1,3
+Switzerland,1980.0,0,2,0
+Switzerland,1984.0,6,0,9
+Switzerland,1988.0,2,0,6
+Switzerland,1992.0,0,1,0
+Switzerland,1996.0,0,5,6
+Switzerland,2000.0,2,1,11
+Switzerland,2004.0,4,1,2
+Switzerland,2008.0,8,3,0
+Syria,1984.0,0,0,1
+Syria,1996.0,0,1,0
+Syria,2004.0,1,0,0
+Taiwan,1984.0,1,0,0
+Taiwan,1992.0,0,0,20
+Taiwan,1996.0,0,0,1
+Taiwan,2000.0,4,0,1
+Taiwan,2004.0,3,2,4
+Taiwan,2008.0,4,0,0
+Tajikistan,2008.0,1,0,1
+Tanzania,1980.0,0,0,2
+Thailand,1976.0,1,0,0
+Thailand,1984.0,0,0,1
+Thailand,1988.0,1,0,0
+Thailand,1992.0,1,0,0
+Thailand,1996.0,1,1,0
+Thailand,2000.0,2,1,0
+Thailand,2004.0,4,3,1
+Thailand,2008.0,0,2,2
+Togo,2008.0,1,0,0
+Tonga,1996.0,0,0,1
+Trinidad and Tobago,1976.0,0,1,0
+Trinidad and Tobago,1996.0,2,0,0
+Trinidad and Tobago,2000.0,1,0,1
+Trinidad and Tobago,2004.0,1,0,0
+Trinidad and Tobago,2008.0,0,0,5
+Tunisia,1996.0,1,0,0
+Tunisia,2008.0,0,1,0
+Turkey,1984.0,3,0,0
+Turkey,1988.0,0,1,1
+Turkey,1992.0,2,2,2
+Turkey,1996.0,1,4,1
+Turkey,2000.0,2,3,0
+Turkey,2004.0,4,3,3
+Turkey,2008.0,3,1,4
+Uganda,1980.0,0,0,1
+Uganda,1996.0,1,0,0
+Ukraine,1996.0,19,10,5
+Ukraine,2000.0,12,3,20
+Ukraine,2004.0,31,9,8
+Ukraine,2008.0,16,10,5
+Unified team,1992.0,66,92,65
+United Arab Emirates,2004.0,0,1,0
+United Kingdom,1976.0,11,6,15
+United Kingdom,1980.0,22,5,18
+United Kingdom,1984.0,43,9,20
+United Kingdom,1988.0,15,22,16
+United Kingdom,1992.0,39,8,3
+United Kingdom,1996.0,9,2,15
+United Kingdom,2000.0,13,22,20
+United Kingdom,2004.0,15,17,25
+United Kingdom,2008.0,21,31,25
+United States,1976.0,36,63,56
+United States,1984.0,50,168,115
+United States,1988.0,52,77,64
+United States,1992.0,85,89,50
+United States,1996.0,52,160,48
+United States,2000.0,52,130,66
+United States,2004.0,73,116,75
+United States,2008.0,81,125,109
+Uruguay,2000.0,0,0,1
+Uzbekistan,1996.0,1,0,1
+Uzbekistan,2000.0,2,1,1
+Uzbekistan,2004.0,2,2,1
+Uzbekistan,2008.0,3,1,2
+Venezuela,1976.0,0,0,1
+Venezuela,1980.0,0,0,1
+Venezuela,1984.0,3,0,0
+Venezuela,2004.0,2,0,0
+Venezuela,2008.0,1,0,0
+Vietnam,2000.0,0,0,1
+Vietnam,2008.0,0,0,1
+Virgin Islands*,1988.0,0,0,1
+West Germany,1976.0,30,21,24
+West Germany,1984.0,52,31,74
+West Germany,1988.0,44,32,37
+Yugoslavia,1976.0,3,2,14
+Yugoslavia,1980.0,17,13,27
+Yugoslavia,1984.0,35,47,5
+Yugoslavia,1988.0,21,15,27
+Yugoslavia,1996.0,13,1,12
+Yugoslavia,2000.0,13,12,1
+Zambia,1984.0,1,0,0
+Zambia,1996.0,0,0,1
+Zimbabwe,1980.0,0,16,0
+Zimbabwe,2004.0,1,1,1
+Zimbabwe,2008.0,0,1,3
