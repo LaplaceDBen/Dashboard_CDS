@@ -31,14 +31,14 @@ swiss = df_max[df_max["Country"] == 'Switzerland']
 #print(swiss)
 #a)
 fig = px.scatter(x=swiss['Year'], y=swiss['Medal'])
-fig.show()
+#fig.show()
 #b)
 df = px.data.tips()
 fig = px.histogram(df, x=swiss['Medal'])
-fig.show()
+#fig.show()
 #c)
 fig = px.line(x=swiss['Year'], y=swiss['Medal'], title='Switzerland Medal per Year')
-fig.show()
+#fig.show()
 df = pd.read_csv(r'.\Summer-Olympic-medals-1976-to-2008.csv', encoding="utf-8")
 
 #Aufgabe 40
@@ -51,8 +51,4 @@ df1.to_csv('summary.csv')
 df1=pd.read_csv(r'.\summary.csv', encoding="utf-8")
 print(df1.info())
 fig = px.bar(df1, x=df1['Year'], y=[df1['Bronze'],df1['Silver'],df1['Gold']],  title="By Country")
-
-
-
-
-fig.show()
+#fig.show()
