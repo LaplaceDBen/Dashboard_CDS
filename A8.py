@@ -2,18 +2,32 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
+from dash import dcc
+
+#Aufgabe 36
+print("\nAufgabe 36\nProjektgruppe:\nBenito Rusconi\nRaphael Brunold\n")
 
 #Aufgabe 37
+#(a)
 df = pd.read_csv(r'.\Summer-Olympic-medals-1976-to-2008.csv', encoding="utf-8")
 df['Country'] = df['Country'].astype(str)
+print("Aufgabe 37 (a)\n",df.head(),"\n\n")
+
+#(b)
+count_row = df.shape[0]  # Gives number of rows
+count_col = df.shape[1]  # Gives number of columns
+print("Aufgabe 37 (b)\nDer Datensatz hat insgesamt",count_col,"Spalten und",count_row,"Zeilen.\n\n\n\n\n")
 
 #Aufgabe 38
 #a)
 Land = df.groupby('Country')
+#print(Land.head())
+
 #b)
 Sportart = df.groupby('Sport')
-print(Land.head())
-#c)
+#print(Sportart.head())
+
+#c) !!! Anpassen !!!
 CSdf= df.groupby(['Country', 'Sport']).size().reset_index(name='counts')
 
 fig = px.bar(CSdf, x="Country",
@@ -50,5 +64,5 @@ print(df1)
 df1.to_csv('summary.csv')
 df1=pd.read_csv(r'.\summary.csv', encoding="utf-8")
 print(df1.info())
-fig = px.bar(df1, x=df1['Year'], y=[df1['Bronze'],df1['Silver'],df1['Gold']],  title="By Country")
+fig = px.bar(df1, x=df1['Year'], y=[df1['Bronze'],df1['Silver'],df1['Gold']], color_discrete_map={'Bronze': 'orange', 'Silver': 'silver', 'Gold':'gold'}, title="By Country")
 #fig.show()
