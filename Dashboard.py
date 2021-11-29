@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import numpy as np
 import dash
 from dash import dcc
-import dash_html_components as html
+from dash import html
 df = pd.read_csv(r'.\Summer-Olympic-medals-1976-to-2008.csv', encoding="utf-8")
 df1 = pd.read_csv(r'.\summary.csv', encoding="utf-8")
 df.info()

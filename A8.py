@@ -27,13 +27,13 @@ Land = df.groupby('Country')
 Sportart = df.groupby('Sport')
 #print(Sportart.head())
 
-#c) !!! Anpassen !!!
+#c)
 CSdf= df.groupby(['Country', 'Sport']).size().reset_index(name='counts')
-
-fig = px.bar(CSdf, x="Country",
-             y='counts',
+print("here")
+print(CSdf)
+fig = px.bar(CSdf, x="Sport",
+             y='counts',color='Country',
              title="Medal Occurence by Country",
-             barmode='group',
              height=600
             )
 
