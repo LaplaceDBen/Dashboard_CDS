@@ -14,6 +14,7 @@ df['Country'] = df['Country'].astype(str)
 print("Aufgabe 37 (a)\n",df.head(),"\n\n")
 
 #(b)
+print(df.info())
 count_row = df.shape[0]  # Gives number of rows
 count_col = df.shape[1]  # Gives number of columns
 print("Aufgabe 37 (b)\nDer Datensatz hat insgesamt",count_col,"Spalten und",count_row,"Zeilen.\n\n\n\n\n")

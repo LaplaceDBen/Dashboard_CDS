@@ -23,7 +23,12 @@ colors = {
 }
 
 #Funktionnierender Plot von Benito
-#fig = px.bar(df1, x=df1['Year'], y=[df1['Bronze'],df1['Silver'],df1['Gold']], color_discrete_map={'Bronze': 'orange', 'Silver': 'silver', 'Gold':'gold'}, title="By Country")
+# fig = px.bar(df1, x=df1['Year'], y=[df1['Bronze'],df1['Silver'],df1['Gold']], color_discrete_map={'Bronze': 'orange', 'Silver': 'silver', 'Gold':'gold'}, title="By Country")
+
+#Leicht abgewandelte Form des Plots, funktuionniert
+fig = px.bar(df1, x='Year', y=['Bronze', 'Silver', 'Gold'],
+             color_discrete_map={'Bronze': 'orange', 'Silver': 'silver', 'Gold': 'gold'},
+             title="So soll es dann aussehen")
 
 app.layout = html.Div([
     html.H1('Oympics', style= {'text-align':'center'}),
@@ -37,12 +42,7 @@ app.layout = html.Div([
 
     #Dropdown (Raffi)
     dcc.Dropdown(id='dropdownCountry',
-                 options = [
-                     {"label": "Switzerland", "value": 'Switzerland'},
-                     {"label": "Germany", "value": 'Germany'},
-                     {"label": "United States", "value": 'United States'},
-                     {"label": "Russia", "value": 'Russia'},
-                     {"label": "China", "value": 'China'}],
+                 options = [{'label': i, 'value': i} for i in df1['Country'].unique()],
                  multi = False,
                  value = 'Switzerland',
                  style = {"width": "40%"}
@@ -51,10 +51,10 @@ app.layout = html.Div([
     dcc.Graph(id='countryplot', figure = {}),
 
 #Funktionnierender Plot von Benito
-   # dcc.Graph(
-   #     id='example-graph',
-   #     figure=fig
-   # )
+   dcc.Graph(
+       id='example-graph',
+       figure=fig
+   )
 ])
 
 #Callback (Raffi)
@@ -65,13 +65,14 @@ app.layout = html.Div([
 def update_graph(option_slctd):
     dff = df1.copy()
     dff = dff[dff["Country"] == option_slctd]
-    print(dff.head()) #Schaut gut aus, Schweiz wird Standardmässig ausgewählt.
+    print(dff.info())
+    print(dff.head()) #Schaut gut aus, Schweiz wird Standardmässig ausgewählt und Daten werden entsprechend angezeigt.
 #Plotly Express (Diagramm definieren)
+    print(type(dff))
     fig = px.bar(dff, x='Year', y=['Bronze', 'Silver', 'Gold'],
                  color_discrete_map={'Bronze': 'orange', 'Silver': 'silver', 'Gold': 'gold'},
                  title="Medals won by selected country")
-    return fig
-
+    return fig,
 
 
 if __name__ == '__main__':
