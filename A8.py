@@ -68,4 +68,4 @@ print(df1.info())
 fig = px.bar(df1, x=df1['Year'], y=[df1['Bronze'],df1['Silver'],df1['Gold']], color_discrete_map={'Bronze': 'orange', 'Silver': 'silver', 'Gold':'gold'}, title="By Country")
 #fig.show()
 
-#Siege Dashboard -> Dort ist es it Dropdown und Callback wie gewünscht implementiert
+#Siehe Dashboard -> Dort ist es mit Dropdown und Callback wie gewünscht implementiert
