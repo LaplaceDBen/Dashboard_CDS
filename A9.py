@@ -32,6 +32,13 @@ def A_41(df):
 
     return SDE,Medaillengewinner,Länder
 
-A_41(df)
+#A_41(df)
 
+#Aufgabe 42
 def A_42(df):
+    df_m = df.groupby(['Country']).size().reset_index(name='counts')
+    m= df_m.sort_values(by=['counts'], ascending=False)
+    print(m.head(10))
+    return m
+
+A_42(df)
