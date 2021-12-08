@@ -50,4 +50,23 @@ def A_43(df):
     cd = df_cd.sort_values(by=['Country','Discipline'], ascending=True)
     print(cd)
     return cd
-A_43(df)
+#A_43(df)
+
+#Aufgabe 44
+
+def A_44(df):
+    country = A_42(df)
+    cd_df = A_43(df)
+    country = country.rename(columns={'counts': 'counts_all'})
+    ratio_df = country.merge(cd_df, how='left', left_on='Country', right_on='Country')
+    ratio_df['normalized']= ratio_df['counts']/ ratio_df['counts_all']
+    final_df = ratio_df.sort_values(by=['Country','Discipline'], ascending=True)
+    print(final_df)
+
+    fig = go.Figure(data=go.Heatmap(
+        z=final_df['normalized'], x=final_df['Country'],y=final_df['Discipline'],hoverongaps=False))
+    fig.write_html("file.html")
+    fig.show()
+    return final_df
+
+A_44(df)
