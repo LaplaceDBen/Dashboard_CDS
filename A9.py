@@ -41,4 +41,13 @@ def A_42(df):
     print(m.head(10))
     return m
 
-A_42(df)
+#A_42(df)
+
+#Aufgabe 43
+
+def A_43(df):
+    df_cd = df.groupby(['Country','Discipline']).size().reset_index(name='counts')
+    cd = df_cd.sort_values(by=['Country','Discipline'], ascending=True)
+    print(cd)
+    return cd
+A_43(df)
