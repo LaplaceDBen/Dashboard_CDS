@@ -67,7 +67,8 @@ def A_44(df):
         z=final_df['normalized'], x=final_df['Country'],y=final_df['Sport'],hoverongaps=False))
     fig.write_html("file.html")
     fig.show()
-    return final_df
+    return fig
 
 A_44(df)
 
+#Aufgabe 45 im Dashboard
