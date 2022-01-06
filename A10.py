@@ -123,9 +123,27 @@ def A_47(df):
     ```'''.format(json.dumps(query, indent=4))))
         ])
 def A_48(df):
-    print(1)
+    app.layout = dash_table.DataTable(
+        columns=[
+            {'name': 'Country', 'id': 'Country', 'type': 'text'},
+            {'name': 'Bronze', 'id': 'Bronze', 'type': 'numeric'},
+            {'name': 'Silver', 'id': 'Silver', 'type': 'numeric'},
+            {'name': 'Gold', 'id': 'Gold', 'type': 'numeric'}
+        ],
+        data=df.to_dict('records'),
+        filter_action='native',
 
+        style_table={
+            'height': 200,
+        },
+        style_data={
+            'width': '100px', 'minWidth': '100px', 'maxWidth': '150px',
+            'overflow': 'hidden',
+            'textOverflow': 'ellipsis',
+        }
+    )
 if __name__ == '__main__':
     #A_46(df)
-    A_47(df)
+    #A_47(df)
+    A_48(df1)
     app.run_server(debug=True)
