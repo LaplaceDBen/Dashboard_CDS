@@ -15,7 +15,7 @@ print(df.info())
 
 app = dash.Dash(__name__)
 #Aufgabe 46
-
+#https://dash.plotly.com/datatable/filtering
 def A_46(df):
     app.layout = dash_table.DataTable(
         columns=[
@@ -38,7 +38,6 @@ def A_46(df):
             'textOverflow': 'ellipsis',
         }
     )
-
 def A_47(df):
     app.layout = html.Div([
 
@@ -123,6 +122,9 @@ def A_47(df):
     {}
     ```'''.format(json.dumps(query, indent=4))))
         ])
+def A_48(df):
+    print(1)
+
 if __name__ == '__main__':
     #A_46(df)
     A_47(df)
