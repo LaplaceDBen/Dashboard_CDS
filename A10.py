@@ -6,8 +6,8 @@ import datetime
 from dash import dcc
 import dash
 from dash.dependencies import Input, Output
-import dash_table
-import dash_html_components as html
+from dash import dash_table
+from dash import html as html
 
 df = pd.read_csv(r'.\Summer-Olympic-medals-1976-to-2008.csv', encoding="utf-8")
 df1 = pd.read_csv(r'.\summary.csv', encoding="utf-8") #Zusammenfassung des grossen Datensatzes
